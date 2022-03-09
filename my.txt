@@ -1,4 +1,3 @@
-This is my text file.  
-I created this text file 
-locallyy. 
-Now making some edit to it.
+> Life is not about waiting for the storm to pass.   
+>
+> It's about learning to dance in the rain.
